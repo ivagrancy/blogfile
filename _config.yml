@@ -74,6 +74,11 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: cafe
+# Social links 社交链接
+social:
+  github: https://github.com/ivagrancy
+  weibo: https://weibo.com/u/6919988321
+  email: 'pengsiwen_2@163.com'
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
