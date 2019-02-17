@@ -55,6 +55,5 @@ win + R  调出 输入cmd，然后出现dos窗口，dos窗口是什么? 就是�
 
 持续学习Python的官方文档，传送门[Python3官方文档](https://docs.python.org/3/) 嗯没错 ，是英文的，很鸡肋。一个优秀的程序员，ta的英文是非常棒的，至少看英文文档可以很6.
 
-![](https://upload-images.jianshu.io/upload_images/11278476-14213e029d6ad1e1.jpeg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![关注我](https://upload-images.jianshu.io/upload_images/11278476-efa91d9c5f99ba1e.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
